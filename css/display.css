@@ -1,0 +1,16 @@
+
+
+body {
+    margin: 0 auto;;
+}
+
+.table-area {
+    background-color: aliceblue;
+    width: 25%;
+    margin: 0 auto;
+    
+}
+
+.table-area table tr td {
+    border: 1px solid red;
+}
